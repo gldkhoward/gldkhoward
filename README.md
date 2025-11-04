@@ -1,7 +1,6 @@
 im luke, i like to build things
 
-![GitHub Stats](https://github-readme-stats-psi-eight-66.vercel.app/api
-?username=gldkhoward
+![GitHub Stats](https://github-readme-stats-psi-eight-66.vercel.app/api?username=gldkhoward
 &count_private=true
 &include_all_commits=true
 &show_icons=true
